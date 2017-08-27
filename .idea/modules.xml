@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/db/db.iml" filepath="$PROJECT_DIR$/db/db.iml" group="db" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db_main.iml" filepath="$PROJECT_DIR$/.idea/modules/db_main.iml" group="db" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db_test.iml" filepath="$PROJECT_DIR$/.idea/modules/db_test.iml" group="db" />
+      <module fileurl="file://$PROJECT_DIR$/general-java/general-java.iml" filepath="$PROJECT_DIR$/general-java/general-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mgp-base/mgp-base.iml" filepath="$PROJECT_DIR$/mgp-base/mgp-base.iml" group="mgp-base" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mgp-base_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mgp-base_main.iml" group="mgp-base" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mgp-base_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mgp-base_test.iml" group="mgp-base" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiProject.iml" filepath="$PROJECT_DIR$/.idea/modules/multiProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatismapper/mybatismapper.iml" filepath="$PROJECT_DIR$/mybatismapper/mybatismapper.iml" group="mybatismapper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mybatismapper_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mybatismapper_main.iml" group="mybatismapper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mybatismapper_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mybatismapper_test.iml" group="mybatismapper" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisxml/mybatisxml.iml" filepath="$PROJECT_DIR$/mybatisxml/mybatisxml.iml" group="mybatisxml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mybatisxml_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mybatisxml_main.iml" group="mybatisxml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mybatisxml_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mybatisxml_test.iml" group="mybatisxml" />
+    </modules>
+  </component>
+</project>
